@@ -1,0 +1,2 @@
+# NewsCrawler
+Scrapper for news
